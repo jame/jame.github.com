@@ -1,9 +1,6 @@
-#robots.txt for www.r-j-c.net
+#robots.txt for http://jame.users.sourceforge.net
 
 User-agent: *
-Disallow: /icons
-Disallow: /perl
-Disallow: /ssh
 
 
 

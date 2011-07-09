@@ -1,0 +1,6 @@
+#robots.txt for http://jame.github.com, http://rocasa.org
+
+User-agent: *
+
+
+

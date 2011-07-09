@@ -1,6 +1,0 @@
-#robots.txt for http://jame.users.sourceforge.net
-
-User-agent: *
-
-
-
